@@ -109,3 +109,4 @@ test.py
 *.json
 output_*
 .DataBaseInfo.py
+*vscode*
